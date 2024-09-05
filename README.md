@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1gsR91N2kBrsL1YYUwuXSfCXGyNvVFPEJfgIvnVNs
 ### Berikut adalah bug report dari pengujian diatas: 
 https://docs.google.com/document/d/1_AeekFK1NrJlB10DOOtcGZ8jZYFq27XL/edit?usp=sharing&ouid=103718986905701257299&rtpof=true&sd=true
 
-### Untuk Example dari step to reproduce dan screnshoot/video mengenai bug dapat dilihat pada folder Exmaple of step tu reproduce dan folder Bug
+### Untuk Example dari step to reproduce dan screnshoot/video mengenai bug dapat dilihat pada folder exmaple of step to reproduce dan folder bug
 
 ### Berikut adalah scenario pengujian dalam format gherkin:
 ```
